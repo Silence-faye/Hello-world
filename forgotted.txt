@@ -1,3 +1,4 @@
 git commit --amend?
 Vim filename
 then input i,dont need ':',will go into a editing mode. 
+git branch testing
